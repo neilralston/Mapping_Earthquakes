@@ -1,6 +1,6 @@
 #  Mapping Earthquakes with JS & APIs (Module 13)
 
-[Link to app.js code](Earthquake_Challenge/Static/js/challenge_logic.js)
+[Link to challenge_logic.js code](Earthquake_Challenge/Static/js/challenge_logic.js)
 
 [Link to index.html code](Earthquake_Challenge/index.html)
 
