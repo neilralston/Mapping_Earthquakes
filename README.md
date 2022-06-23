@@ -18,7 +18,9 @@ Using JavaScript, Leaflet, and HTML, the map includes the following functionalit
 ## Results
 
 Deliverable 1: Add Tectonic Plate Data
+
 Deliverable 2: Add Major Earthquake Data 
+
 Deliverable 3: Add an Additional Map
 
 ### Resources
